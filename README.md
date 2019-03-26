@@ -1,3 +1,3 @@
 buildbot test
 
-this project is used for test buildbot configuration
+this project is used for testing buildbot configuration
